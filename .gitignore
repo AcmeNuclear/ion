@@ -5,6 +5,7 @@ __pycache__/
 
 # Developmental Environment Specific
 yt-eve-master/
+.venv/
 
 # C extensions
 *.so
