@@ -18,6 +18,6 @@ setup(
     install_requires=read_requirements(),
     entry_points='''
         [console_scripts]
-        ion=ion.cli:cli
+        ion=ion.launch:launch
     '''
 )
